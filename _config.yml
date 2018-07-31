@@ -1,6 +1,6 @@
 # Site
 title:              DataVis
-bio:                'Olin's DataVis, a class in-progress'
+bio:                "Olin's DataVis, a class in-progress"
 description:        "Olin's DataVis, a class in-progress"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
