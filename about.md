@@ -1,27 +1,37 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: Olin DataVis - About
+description: An explanation and description for the strory behind this class.
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2018-08-03
     changefreq: weekly
 ---
-## About our Site
+## About Summer '18
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/Sprague.jpg" | absolute_url }}" alt="" /></span>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+Over the summer of 2018, two rising sophomores from Olin College of Engineering were sent to Harvey Mudd College to work at an REU. The REU was (and is) about [Scripting for All (+ Disciplines)](https://www.cs.hmc.edu/reu/projects/scripting/), and the goal of it is to research and exlpore ways to turn CS into a literacy instead of just a specialization. Following with this, the goal of the two Olin students was to do reasearch into what needs the Olin curriculum had in regards to computing, and, time allowing, start developing a course to meet those needs.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+Over the ten weeks the two spent at HMC, they met virtually with their Olin faculty advisor, met in-person with their Harvey Mudd faculty advisor, interacted with the other REU participants, and worked towards the goals given to them. They gained experience with general-purpose CS classes by taking one that is offered at HMC, they interviewed 8 Olin faculty, 9 current Olin students, and 18 Olin alumni, they presented their research progress, explored different class plans, and developed some preliminary class materials. In the end, it was decided that more wok needed to be done to determine what kind of class would best meet the needs of the students of Olin College, but they materials they made and the class plans they explored live here for future use.
 
-### Content is Imortant
+### The Plans
 <div class="box">
   <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
+  While the materials, or Launchpads as they're called, live on their pages, the class plans the two developed reside here. Really the two came up with very many potential plans and ideas for the new course, but only 2 of them were ever fully fleshed out. Those two are detailed here.
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+##### Data Visualization and Simulations Class
+<span class="image left"><img src="{{ "/images/datavis_plan.png" | absolute_url }}" alt="" /></span>
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+This was the first class plan to be developed, and it is the one the class materials were developed for and the name for this website was derived from. It starts off with basic data formats, to learn how to extarct, manipulate, and store data in different forms. It then moves into the different levels of machine learning, which would be working with and analyzing the data. From there, students would cover the design, creation, and use of simulations to test and gather data, and afterwards they would learn different ways to visualize their results and make them available to others.
+
+While the students are going through the structured learning, they will also have assignemtns called launchpads. These are the assignments that he Olin students worked on making a couple of over the summer. They consist of a structured beginning that walks a student through the basics of a project at the intersection of computing and, hopefully, one of the student's interests. After working through the example portion, the student is expected to take what they just learned and do there own mini project with it.
+
+These launchpads are also the basis for the last two portions of the class. The final project is an exploration the student does of computing in one of their passions (e.g. their major). After completing this larger project, they then show their mastery and understanding in the final portion of the class by simplify their project and turning it into a launchpad to used in following years!
+
+##### General Computing Skills Class
+<span class="image left"><img src="{{ "/images/genclass_plan.png" | absolute_url }}" alt="" /></span>
+
+This class was an attempt to squeeze in more general skills and topics into one class.
