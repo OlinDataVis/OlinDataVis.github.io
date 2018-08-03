@@ -23,7 +23,7 @@ Over the ten weeks the two spent at HMC, they met virtually with their Olin facu
 </div>
 
 ##### Data Visualization and Simulations Class
-<span class="image left"><img src="{{ "/images/datavis_plan.png" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/images/datavis_plan.png" | absolute_url }}" alt="" /></span>
 
 This was the first class plan to be developed, and it is the one the class materials were developed for and the name for this website was derived from. It starts off with basic data formats, to learn how to extarct, manipulate, and store data in different forms. It then moves into the different levels of machine learning, which would be working with and analyzing the data. From there, students would cover the design, creation, and use of simulations to test and gather data, and afterwards they would learn different ways to visualize their results and make them available to others.
 
@@ -32,6 +32,6 @@ While the students are going through the structured learning, they will also hav
 These launchpads are also the basis for the last two portions of the class. The final project is an exploration the student does of computing in one of their passions (e.g. their major). After completing this larger project, they then show their mastery and understanding in the final portion of the class by simplify their project and turning it into a launchpad to used in following years!
 
 ##### General Computing Skills Class
-<span class="image left"><img src="{{ "/images/genclass_plan.png" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/images/genclass_plan.png" | absolute_url }}" alt="" /></span>
 
 This class was an attempt to squeeze in more general skills and topics into one class.
